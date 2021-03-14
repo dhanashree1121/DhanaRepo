@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6365" started-at="2021-01-07T18:23:47Z" finished-at="2021-01-07T18:23:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6365" started-at="2021-01-07T18:23:47Z" finished-at="2021-01-07T18:23:53Z">
+      <class name="com.techno.fb.FBLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.techno.fb.FBLogin@1a968a59]" name="setup" is-config="true" duration-ms="5013" started-at="2021-01-07T23:53:47Z" finished-at="2021-01-07T23:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.techno.fb.FBLogin@1a968a59]" name="m1" is-config="true" duration-ms="1" started-at="2021-01-07T23:53:52Z" finished-at="2021-01-07T23:53:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="fbpage()[pri:1, instance:com.techno.fb.FBLogin@1a968a59]" name="fbpage" duration-ms="1017" started-at="2021-01-07T23:53:52Z" finished-at="2021-01-07T23:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbpage -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.techno.fb.FBLogin@1a968a59]" name="titlecatch" is-config="true" duration-ms="8" started-at="2021-01-07T23:53:53Z" finished-at="2021-01-07T23:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+        <test-method status="PASS" signature="login()[pri:2, instance:com.techno.fb.FBLogin@1a968a59]" name="login" duration-ms="282" started-at="2021-01-07T23:53:53Z" finished-at="2021-01-07T23:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="m1()[pri:0, instance:com.techno.fb.FBLogin@1a968a59]" name="m1" is-config="true" duration-ms="0" started-at="2021-01-07T23:53:53Z" finished-at="2021-01-07T23:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method status="PASS" signature="titlecatch()[pri:0, instance:com.techno.fb.FBLogin@1a968a59]" name="titlecatch" is-config="true" duration-ms="17" started-at="2021-01-07T23:53:53Z" finished-at="2021-01-07T23:53:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecatch -->
+      </class> <!-- com.techno.fb.FBLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
